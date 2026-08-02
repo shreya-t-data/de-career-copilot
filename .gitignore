@@ -6,4 +6,5 @@ venv/
 corpus/job_descriptions/*.txt
 !corpus/job_descriptions/.gitkeep
 .DS_Store
-*.log
+*.logmcp_server/*.mcpb
+mcp_server/__pycache__/
