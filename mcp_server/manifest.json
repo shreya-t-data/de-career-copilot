@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.4",
   "name": "career-copilot",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Search Shreya's career corpus (resume, project docs, case studies) via Databricks Vector Search",
   "author": { "name": "Shreya Thakuri" },
   "server": {
